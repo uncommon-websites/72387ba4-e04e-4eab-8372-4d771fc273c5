@@ -2,35 +2,35 @@
   const steps = [
     {
       num: "01",
-      title: "Design yours",
-      desc: "Take your pick with layouts and customizations that reflect your style and needs.",
-      img: "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=2070&auto=format&fit=crop"
+      title: "Initial consultation",
+      desc: "We discuss your needs, preferences, and budget to understand exactly what you're looking for in a home.",
+      img: "/generated/image-professional-real-estate-agent-in-busine-1766622798912-4.webp"
     },
     {
       num: "02",
-      title: "Sign off",
-      desc: "We visit your site to create a complete proposal for the work required to install Backyard.",
-      img: "https://images.unsplash.com/photo-1599619351208-3e6c839d6828?q=80&w=2072&auto=format&fit=crop"
+      title: "Personalized tours",
+      desc: "Receive custom video tours of properties and neighborhoods, helping you narrow down options before visiting.",
+      img: "/generated/image-real-estate-agent-showing-property-detai-1766622807316-8.webp"
     },
     {
       num: "03",
-      title: "Sit back",
-      desc: "We secure permitting, permits, manufacture your ADU, and prep your site. You get to relax.",
-      img: "https://images.unsplash.com/photo-1581094794329-cd8119608f84?q=80&w=2070&auto=format&fit=crop"
+      title: "Make your offer",
+      desc: "With deep market knowledge, I guide you through negotiations to secure the best possible terms.",
+      img: "/generated/image-luxurious-open-concept-living-room-with--1766622803057-6.webp"
     },
     {
       num: "04",
-      title: "Get your keys",
-      desc: "After as few as eight weeks on site, we'll deliver Backyard to your life. Your life is now ready for use.",
-      img: "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1973&auto=format&fit=crop"
+      title: "Close with confidence",
+      desc: "I manage every detail through closing, ensuring a smooth transaction and successful outcome.",
+      img: "/generated/image-smiling-family-of-four-standing-in-front-1766622800952-5.webp"
     }
   ];
 </script>
 
-<section class="bg-white py-24 px-6">
+<section class="bg-white py-24 px-6" id="process">
   <div class="max-w-[1200px] mx-auto">
     <h2 class="text-[40px] leading-tight font-light text-gray-900 mb-16 max-w-[600px]">
-      Get Backyard in four simple steps. And as few as eight weeks on site.
+      Your home buying journey in four simple steps. Guided by local expertise.
     </h2>
 
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mb-16">
@@ -50,16 +50,16 @@
 
     <div class="bg-[#f9f9f7] rounded-2xl p-12 flex flex-col md:flex-row items-center justify-between gap-8">
       <div>
-        <h3 class="text-2xl font-light mb-2">Want the details?</h3>
-        <p class="text-gray-500 text-sm">Learn more about our fast, easy installation process.</p>
+        <h3 class="text-2xl font-light mb-2">Ready to get started?</h3>
+        <p class="text-gray-500 text-sm">Schedule a consultation to discuss your real estate goals.</p>
       </div>
       <div class="flex gap-4">
         <button class="px-6 py-3 bg-white border border-gray-200 hover:bg-gray-50 rounded-lg text-sm font-medium transition-colors">
-          How it works
+          Learn more
         </button>
-        <button class="px-6 py-3 bg-[#007aff] hover:bg-[#0062cc] text-white rounded-lg text-sm font-medium transition-colors flex items-center gap-2">
-          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
-          Download brochure
+        <button class="px-6 py-3 bg-[oklch(0.696_0.17_162.48)] hover:bg-[oklch(0.596_0.145_163.225)] text-white rounded-lg text-sm font-medium transition-colors flex items-center gap-2">
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+          Schedule consultation
         </button>
       </div>
     </div>
